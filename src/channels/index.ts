@@ -11,4 +11,5 @@ import './gmail.js';
 // telegram
 import './telegram.js';
 
-// whatsapp (separate skill - add with /add-whatsapp)
+// whatsapp
+import './whatsapp.js';
