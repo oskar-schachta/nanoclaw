@@ -4,12 +4,10 @@
 // discord
 
 // gmail
-import './gmail.js';
 
 // slack
 
-// telegram
-import './telegram.js';
+// telegram (separate skill - add with /add-telegram)
 
 // whatsapp
 import './whatsapp.js';
